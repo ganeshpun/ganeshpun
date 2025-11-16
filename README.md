@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/q3D9A1D.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.svg" width="100%" />
 </p>
-
 
 
 <!-- Animated Header -->

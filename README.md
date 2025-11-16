@@ -2,13 +2,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" 
-       width="100%" height="300px"/>
-</p>
-
-
-
 
 <!-- Animated Header -->
 <p align="center">

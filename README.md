@@ -1,7 +1,7 @@
-<!-- Animated Gradient Background -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/master/particles.gif" width="100%" />
 </p>
+
 
 <!-- Animated Header -->
 <p align="center">

@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/ganesh-pun-5353692a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com](https://ganeshpun.github.io/" target="_blank">
+  <a href="https://ganeshpun.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>

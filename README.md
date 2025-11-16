@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Hi+I'm+Ganesh+Kumar+Pun;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ganesh+Kumar+Pun;Welcome+to+my+GitHub+Profile;" />
 </p>
 
 <!-- Social Icons -->

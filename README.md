@@ -1,3 +1,8 @@
+<!-- Animated Gradient Background -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+</p>
+
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ganesh+Kumar+Pun;Welcome+to+my+GitHub+Profile;" />

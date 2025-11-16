@@ -1,5 +1,6 @@
+<!-- Animated Gradient Background -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
 </p>
 
 

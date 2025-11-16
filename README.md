@@ -39,36 +39,41 @@ I am dedicated to continuous learning, improving my technical capabilities, and 
 
 # 🚀 **Tech Stack • Skills**
 
-<p align="center">
-
-  <!-- Frontend -->
+### 🚀 Frontend
+<p>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=react" />
+</p>
 
-  <!-- Backend -->
+### 🛠 Backend
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=express" />
+</p>
 
-  <!-- Database -->
+### 🗄 Database
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-  <!-- Data Analysis -->
+### 📊 Data Analysis
+<p>
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
+</p>
 
-  <!-- Tools -->
+### ⚙ Tools
+<p>
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
-
 </p>
-
 
 ---
 

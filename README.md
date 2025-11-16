@@ -95,5 +95,5 @@ I am dedicated to continuous learning, improving my technical capabilities, and 
 ---
 
 # ✨ Fun Fact
-**I love creating digital products & exploring new tech every single day.**
+**I love to explore new tech every single day.**
 

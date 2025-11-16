@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ganesh+Magar;IT+Engineer;MERN+Stack+Developer;Data+Analyst+(Basics);Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ganesh+Kumar+Pun;IT+Engineer;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <!-- Social Icons -->
@@ -42,6 +42,8 @@
 ### **Database**
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+
 </p>
 
 ### **Data Analysis**

@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ganesh Magar</h1>
+<h3 align="center">IT Engineer | MERN Stack Developer | Data Analyst (Basics)</h3>
 
-<!--
-**ganeshpun/ganeshpun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 IT Engineering Graduate  
+- 💻 MERN Stack Developer  
+- 📊 Data Analyst (Basics)  
+- 🌱 Currently improving my React, Node.js and Data Analysis skills  
+- ⚡ Love building digital products, automations, and learning cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+
+**Frontend:**  
+`HTML` • `CSS` • `JavaScript` • `React`  
+
+**Backend:**  
+`Node.js` • `Express.js`  
+
+**Database:**  
+`MongoDB`  
+
+**Data Analysis:**  
+`Python` • `Pandas` • `NumPy` • `Matplotlib`  
+
+**Others:**  
+`Git` • `GitHub` • `REST API`
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshpun&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshpun&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 📫 Connect With Me  
+- 🌐 Portfolio: *coming soon*  
+- 📧 Email: **your-email-here** (optional)
+
+---
+
+### 🔥 Fun Fact  
+I love creating digital products, exploring tech, and improving myself every day.
+

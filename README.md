@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ganesh Magar</h1>
+<h1 align="center">Hi 👋, I'm Ganesh Kumar Pun</h1>
 <h3 align="center">IT Engineer | MERN Stack Developer | Data Analyst (Basics)</h3>
 
 ---
@@ -21,10 +21,10 @@
 `Node.js` • `Express.js`  
 
 **Database:**  
-`MongoDB`  
+`MongoDB`  . `MySQL`
 
 **Data Analysis:**  
-`Python` • `Pandas` • `NumPy` • `Matplotlib`  
+`Python` • `Pandas` • `NumPy` • `Matplotlib` . `Seaborn`  
 
 **Others:**  
 `Git` • `GitHub` • `REST API`
@@ -41,7 +41,7 @@
 
 ### 📫 Connect With Me  
 - 🌐 Portfolio: *coming soon*  
-- 📧 Email: **your-email-here** (optional)
+- 📧 Email: **ganeshkumarpun2@gmail.com**
 
 ---
 

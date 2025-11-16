@@ -18,12 +18,14 @@
 
 ---
 
-# 👨‍💻 **About Me**
-- 🎓 IT Engineering Graduate  
-- 💻 MERN Stack Developer  
-- 📊 Data Analyst (Basics)  
-- 🌱 Learning AWS, API Development & Advanced React  
-- ⚡ Building digital tools, automation & AI-powered projects  
+### 👨‍💻 About Me  
+I am an IT Engineering graduate with foundational exposure to the **computer networking, numerical analysis, Engineering Mathematics, and core IT fundamentals** along with an understanding of programming languages such as **C, C++, Java, Python, and JavaScript** Although I am revisiting the concepts to strengthen my understanding, I am committed to rebuilding my skills through consistent practice and real project development.
+
+I am currently expanding my expertise in **Data Analysis**, focusing on tools and techniques for data-driven decision-making. Additionally, I have a growing interest in **Cybersecurity**, and I plan to explore this field further as part of my long-term career development.
+
+I am dedicated to continuous learning, improving my technical capabilities, and building a strong foundation for future opportunities in the tech industry.
+
+
 
 ---
 

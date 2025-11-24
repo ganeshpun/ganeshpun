@@ -75,38 +75,6 @@ I am dedicated to continuous learning, improving my technical capabilities, and 
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
----
-
-# 📊 **GitHub Stats**
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ganeshpun&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshpun&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🔥 GitHub Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshpun&theme=tokyonight" />
-</p>
-
----
-
-# 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshpun&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganeshpun&theme=algolia&no-bg=true&no-frame=true&column=6" />
-</p>
-
----
-
 # ✨ Fun Fact
 **I love to explore new tech every single day.**
 

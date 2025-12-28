@@ -26,14 +26,14 @@
 
 ---
 
-### 👨‍💻 About Me  
+###  About Me  
 IT Engineer and Tech Enthusiast, learning and building projects
 
 
 
 ---
 
-## 🚀 Skills
+##  Skills
 
 ### Frontend
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -64,6 +64,6 @@ IT Engineer and Tech Enthusiast, learning and building projects
 
 
 
-# ✨ Fun Fact
+#  Fun Fact
 **I love to explore new tech every single day.**
 

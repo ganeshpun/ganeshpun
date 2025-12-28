@@ -27,11 +27,7 @@
 ---
 
 ### 👨‍💻 About Me  
-I am an IT Engineering graduate and an aspiring Full Stack (MERN) Developer.
-
-I am currently expanding my expertise in **Data Analysis**, focusing on tools and techniques for data-driven decision-making. Additionally, I have a growing interest in **Cybersecurity**, and I plan to explore this field further as part of my long-term career development.
-
-I am dedicated to continuous learning, improving my technical capabilities, and building a strong foundation for future opportunities in the tech industry.
+IT Engineer and Tech Enthusiast, learning and building projects
 
 
 
@@ -51,6 +47,9 @@ I am dedicated to continuous learning, improving my technical capabilities, and 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=dotnet" /> 
+  <img src="https://skillicons.dev/icons?i=csharp" /> 
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30"/> 
 </p>
 
 ### 🗄 Database
@@ -63,7 +62,6 @@ I am dedicated to continuous learning, improving my technical capabilities, and 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
 </p>
@@ -74,6 +72,7 @@ I am dedicated to continuous learning, improving my technical capabilities, and 
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
+
 
 # ✨ Fun Fact
 **I love to explore new tech every single day.**

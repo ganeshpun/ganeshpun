@@ -47,9 +47,8 @@ IT Engineer and Tech Enthusiast, learning and building projects
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=dotnet" /> 
-  <img src="https://skillicons.dev/icons?i=csharp" /> 
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30"/> 
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30" />
 </p>
 
 ### 🗄 Database

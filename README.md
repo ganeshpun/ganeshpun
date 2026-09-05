@@ -27,7 +27,7 @@
 ---
 
 ###  About Me  
-IT Engineer and Tech Enthusiast, learning and building projects
+Tech Enthusiast, learning and building projects
 
 
 
